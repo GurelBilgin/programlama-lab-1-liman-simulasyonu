@@ -86,7 +86,3 @@ gelis_zamani,plaka,ulke,ton_20_adet,ton_30_adet,yuk_miktari,maliyet
 gelis_zamani,ad,kapasite,gidecek_ulke
 2,Mavi Deniz,120,Almanya
 ```
-
-## Notlar
-
-Eski ödev dosyaları korunmak isteniyorsa, GitHub üzerinde `eski-surum-yedek` adlı ayrı bir branch oluşturulması önerilir. Ana dalda ise bu düzenlenmiş ve çalıştırılabilir proje yapısı tutulabilir.
