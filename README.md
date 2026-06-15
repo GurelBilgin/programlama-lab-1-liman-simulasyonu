@@ -86,3 +86,9 @@ gelis_zamani,plaka,ulke,ton_20_adet,ton_30_adet,yuk_miktari,maliyet
 gelis_zamani,ad,kapasite,gidecek_ulke
 2,Mavi Deniz,120,Almanya
 ```
+## Hazırlayanlar
+
+* Gürel Bilgin
+* Berkay Aras
+
+Bu proje, Kocaeli Sağlık ve Teknoloji Üniversitesi Yazılım Mühendisliği Bölümü Programlama Lab 1 dersi kapsamında geliştirilmiştir.
