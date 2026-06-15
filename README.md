@@ -90,5 +90,3 @@ gelis_zamani,ad,kapasite,gidecek_ulke
 
 * Gürel Bilgin
 * Berkay Aras
-
-Bu proje, Kocaeli Sağlık ve Teknoloji Üniversitesi Yazılım Mühendisliği Bölümü Programlama Lab 1 dersi kapsamında geliştirilmiştir.
